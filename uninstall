@@ -1,10 +1,10 @@
 #!/bin/bash
 
-pip3 uninstall angie-sirius
-pip3 uninstall lina
-pip3 uninstall parade
-pip3 uninstall cad
-pip3 uninstall sirius
-pip3 uninstall mist-dispersion
-pip3 uninstall phalanx
+pip3 uninstall angie-sirius -y
+pip3 uninstall lina -y
+pip3 uninstall parade -y
+pip3 uninstall cad -y
+pip3 uninstall sirius -y
+pip3 uninstall mist-dispersion -y
+pip3 uninstall phalanx -y
 
