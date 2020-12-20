@@ -7,4 +7,5 @@ pip3 uninstall cad -y
 pip3 uninstall sirius -y
 pip3 uninstall mist-dispersion -y
 pip3 uninstall phalanx -y
+pip3 uninstall miki -y
 
